@@ -36,7 +36,7 @@ a {
 .meni {
   position:fixed;
   top: 1em;
-  right: 1em;
+  right: 3em;
   z-index: 1;
 }
 
