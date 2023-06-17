@@ -18,6 +18,7 @@ p {
   font-size:2em;
   color: white;
   text-align: right;
+  margin-right:2em;
 }
 
 .meni a {
@@ -36,7 +37,7 @@ a {
 .meni {
   position:fixed;
   top: 1em;
-  right: 3em;
+  right: 1em;
   z-index: 1;
 }
 
